@@ -62,11 +62,17 @@ Based on the analysis, recommendations include:
 - Focusing on education around BMI management, particularly for smokers.
 - Adjusting financial strategies based on the number of children.
 
+
+## Findings / What We Discovered
+
+
 ![image_480](https://github.com/user-attachments/assets/b5446997-c2dd-4a69-8e66-2488af69c845)
+
+
 ![image_360](https://github.com/user-attachments/assets/8c44c798-6fbc-4657-922a-7786219f283c)
 
 
-## Findings / What We Discovered
+
 - **Distribution of Charges by Region:** The map visualization clearly indicates that regions such as the Northeast and Northwest show notably different charge distributions compared to the Southeast and Southwest, where charges tend to be lower on average.
 - **Average Charges by Number of Children:** The line chart reveals a positive trend where average charges increase with the number of children, indicating that family size significantly impacts healthcare costs.
 - **BMI Analysis:**
@@ -75,7 +81,10 @@ Based on the analysis, recommendations include:
 
 
 ![image_480](https://github.com/user-attachments/assets/b5bda3ec-93e1-4aaa-b934-6dd221a91bc0)
+
+
 ![image_360](https://github.com/user-attachments/assets/f72a3dc5-cb04-4c68-966a-c8d7722b3bdb)
+
 
 ## Limitations
 - The dataset may not capture all demographic factors influencing health and charges. Additional variables (like income level or geographic specifics) could provide deeper insights.
