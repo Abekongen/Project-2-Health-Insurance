@@ -24,6 +24,12 @@ The dataset comprises various health metrics and financial charges categorized b
 - **BMI (Body Mass Index):** Measurements categorized by age, smoking status, and sex
 - **Children:** The number of children impacting charges
 
+# CSV and PowerBI File 
+
+CSV: https://drive.google.com/file/d/1CvzRFJq3JWn95bwfmI_-9vCBbQy0YDPk/view?usp=drive_link
+
+PowerBi: https://drive.google.com/file/d/1rnrepkGt6txQjZAsGlWmKBZZqZhg9UvL/view?usp=drive_link
+
 ## Methodology
 
 ### 2.1 Ask
