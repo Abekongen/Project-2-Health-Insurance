@@ -28,7 +28,7 @@ The dataset comprises various health metrics and financial charges categorized b
 
 CSV: https://drive.google.com/file/d/1CvzRFJq3JWn95bwfmI_-9vCBbQy0YDPk/view?usp=drive_link
 
-PowerBi: https://drive.google.com/file/d/1rnrepkGt6txQjZAsGlWmKBZZqZhg9UvL/view?usp=drive_link
+PowerBI: https://drive.google.com/file/d/1rnrepkGt6txQjZAsGlWmKBZZqZhg9UvL/view?usp=drive_link
 
 ## Methodology
 
