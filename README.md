@@ -72,6 +72,8 @@ Based on the analysis, recommendations include:
 - **BMI Analysis:**
   - The line graph depicting BMI by age and smoking status shows that smokers have a consistently higher average BMI across most ages.
   - The bar chart comparing average BMI by sex illustrates that male and female BMI averages are closely aligned, with minimal differences.
+
+
 ![image_480](https://github.com/user-attachments/assets/b5bda3ec-93e1-4aaa-b934-6dd221a91bc0)
 ![image_360](https://github.com/user-attachments/assets/f72a3dc5-cb04-4c68-966a-c8d7722b3bdb)
 
